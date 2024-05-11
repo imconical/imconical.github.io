@@ -4,5 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+## 我是谁
+我是一位技术爱好者，目前供职于一所大型金融机构。业余时间，喜欢研究各种计算机技术，数学模型。
+
+## 我的愿景
+希望通过这个博客分享我的技术心得，传递我的想法，对职业和行业的思考。既有干货，也有鸡汤。
